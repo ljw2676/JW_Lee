@@ -225,7 +225,7 @@ $(document).ready(function() {
 						fn_insertReport();
 					}
 				}else{
-					alert("이미 신고한 모임와 주최자 입니다.");
+					alert("이미 신고한 모임과 주최자 입니다.");
 				}
 				
 			},
